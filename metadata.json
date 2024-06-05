@@ -1,0 +1,15 @@
+{
+  "name": "juan sebastian veron",
+  "symbol": "JSV",
+  "description": "Fun Token :)",
+  "image": "https://raw.githubusercontent.com/veron23232323/jsv/main/233.jpg",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/veron23232323/jsv/main/233.jpg",
+        "type": "image/png"
+      }
+    ]
+  }
+}
